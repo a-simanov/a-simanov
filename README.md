@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Artem.
-Learning C++.
-I'm trying to do something usefulю
-Fun fact: It's not really working out yet )ю
+Learning C++. \
+I'm trying to do something useful. \
+Fun fact: It's not really working out yet :grinning:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+</div>
