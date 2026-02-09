@@ -18,6 +18,9 @@ My name is Artem.
 Learning C++. \
 I'm trying to do something useful. \
 Fun fact: It's not really working out yet :grinning:
+### My links
+Telegram 
+@simanov_art
 ### Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
